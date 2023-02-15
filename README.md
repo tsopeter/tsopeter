@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 --!>
 
-- 🔭 I’m currently working on Optical Neural Networks.
-- 🌱 I’m currently learning MATLAB.
-- 📫 How to reach me: tsopeter@ku.edu
-- 😄 Pronouns: He/Him
-
+- 🔭 I’m currently working on Optical Neural Networks.\n
+- 🌱 I’m currently learning MATLAB.\n
+- 📫 How to reach me: tsopeter@ku.edu\n
+- 😄 Pronouns: He/Him\n
